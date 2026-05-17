@@ -1,7 +1,7 @@
 # Mini Katalog Uygulamasi
 
 ## Kisa Aciklama
-Bu proje, modern bir mobil arayuz tasarimina sahip Apple urunlerinin listelendigi ve sepete ekleme simülasyonunun yapildigi interaktif bir katalog uygulamasidir.
+Bu proje, urunlerin listelendigi ve sepete ekleme simülasyonunun yapildigi interaktif bir katalog uygulamasidir.
 
 ## Kullanilan Flutter Surumu
 * Flutter: 3.41.9
